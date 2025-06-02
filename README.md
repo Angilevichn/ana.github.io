@@ -1,2 +1,2 @@
-ССылка: https://ana.github.io/dist
+ССылка: https://ana.github.io
 
